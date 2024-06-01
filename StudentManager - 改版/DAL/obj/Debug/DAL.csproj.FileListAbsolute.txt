@@ -1,0 +1,46 @@
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\第3讲：项目框架的设计实践\项目完整框架\StudentManager\DAL\bin\Debug\DAL.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\第3讲：项目框架的设计实践\项目完整框架\StudentManager\DAL\bin\Debug\DAL.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\第3讲：项目框架的设计实践\项目完整框架\StudentManager\DAL\bin\Debug\Models.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\第3讲：项目框架的设计实践\项目完整框架\StudentManager\DAL\bin\Debug\Models.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\第3讲：项目框架的设计实践\项目完整框架\StudentManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\第3讲：项目框架的设计实践\项目完整框架\StudentManager\DAL\obj\Debug\DAL.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\第3讲：项目框架的设计实践\项目完整框架\StudentManager\DAL\obj\Debug\DAL.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\同步教学源码\StudentManager\DAL\bin\Debug\DAL.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\同步教学源码\StudentManager\DAL\bin\Debug\DAL.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\同步教学源码\StudentManager\DAL\bin\Debug\Models.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\同步教学源码\StudentManager\DAL\bin\Debug\Models.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\同步教学源码\StudentManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\同步教学源码\StudentManager\DAL\obj\Debug\DAL.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\同步教学源码\StudentManager\DAL\obj\Debug\DAL.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统【已发布】\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\DAL.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统【已发布】\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\DAL.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统【已发布】\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\Models.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统【已发布】\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\Models.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统【已发布】\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统【已发布】\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统【已发布】\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\DAL.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\DAL.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\Models.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\Models.pdb
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.dll
+F:\今日授课\课程[06]【中级突破】：【项目教学】开发CS架构的管理信息系统\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.pdb
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\DAL.dll
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\DAL.pdb
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\Models.dll
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\bin\Debug\Models.pdb
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.dll
+D:\喜课堂资料\06\本课程学习资料\贯穿项目（最新完整版本）\同步教学源码（最新完整版本）\StudentManager\DAL\obj\Debug\DAL.pdb
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\bin\Debug\DAL.dll
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\bin\Debug\DAL.pdb
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\bin\Debug\Models.dll
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\bin\Debug\Models.pdb
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\obj\Debug\DAL.dll
+D:\项目存档\学员信息管理系统\StudentManager - 改版\DAL\obj\Debug\DAL.pdb
